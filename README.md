@@ -1,5 +1,5 @@
-# DS_Learning_Project_01
-Working with dataframe from hh.ru 
+# DS_Learning_Project_02
+Working with DB from hh.ru 
 
 # My data science projects
 
