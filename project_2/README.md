@@ -1,17 +1,17 @@
 # Проект 2. Анализ вакансий на HeadHunter
 
 ## Оглавление  
-[1. Описание проекта](https://github.com/hremeus/DS_Learning_Project_01/tree/main/project_1/README.md#Описание-проекта)  
-[2. Какой кейс решаем?](https://github.com/hremeus/DS_Learning_Project_01/tree/main/project_1/README.md#Какой-кейс-решаем)  
-[3. Краткая информация о данных](https://github.com/hremeus/DS_Learning_Project_01/tree/main/project_1/README.md#Краткая-информация-о-данных)  
-[4. Этапы работы над проектом](https://github.com/hremeus/DS_Learning_Project_01/tree/main/project_1/README.md#Этапы-работы-над-проектом)  
-[5. Результат](https://github.com/hremeus/DS_Learning_Project_01/tree/main/project_1/README.md#Результат)    
-[6. Выводы](https://github.com/hremeus/DS_Learning_Project_01/tree/main/project_1/README.md#Выводы) 
+[1. Описание проекта](https://github.com/hremeus/DS_Learning_Project_02/tree/master/project_2/README.md#Описание-проекта)  
+[2. Какой кейс решаем?](https://github.com/hremeus/DS_Learning_Project_02/tree/master/project_2/README.md#Какой-кейс-решаем)  
+[3. Краткая информация о данных](https://github.com/hremeus/DS_Learning_Project_02/tree/master/project_2/README.md#Краткая-информация-о-данных)  
+[4. Этапы работы над проектом](https://github.com/hremeus/DS_Learning_Project_02/tree/master/project_2/README.md#Этапы-работы-над-проектом)  
+[5. Результат](https://github.com/hremeus/DS_Learning_Project_02/tree/master/project_2/README.md#Результат)    
+[6. Выводы](https://github.com/hremeus/DS_Learning_Project_02/tree/master/project_2/README.md#Выводы) 
 
 ### Описание проекта    
 Представьте, что вы устроились на работу в кадровое агентство, которое подбирает вакансии для IT-специалистов. Ваш первый проект — создание модели машинного обучения, которая будет рекомендовать вакансии клиентам агентства, претендующим на позицию Data Scientist. Сначала вам необходимо понять, что из себя представляют данные и насколько они соответствуют целям проекта.
 
-:arrow_up:[к оглавлению](https://github.com/hremeus/DS_Learning_Project_01/tree/main/project_1/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/hremeus/DS_Learning_Project_02/tree/master/project_2/README.md#Оглавление)
 
 
 ### Какой кейс решаем?    
@@ -37,7 +37,7 @@ INDUSTRIES: Таблица-справочник вариантов сфер де
 
 EMPLOYERS_INDUSTRIES:Дополнительная таблица, которая существует для организации связи между работодателями и сферами их деятельности.
 
-:arrow_up:[к оглавлению](https://github.com/hremeus/DS_Learning_Project_01/tree/main/project_1/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/hremeus/DS_Learning_Project_02/tree/master/project_2/README.md#Оглавление)
 
 
 ### Этапы работы над проектом  
@@ -52,20 +52,20 @@ EMPLOYERS_INDUSTRIES:Дополнительная таблица, которая
 
 -предметный анализ.
 
-:arrow_up:[к оглавлению](https://github.com/hremeus/DS_Learning_Project_01/tree/main/project_1/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/hremeus/DS_Learning_Project_02/tree/master/project_2/README.md#Оглавление)
 
 
 ### Результат:  
 
 Результат получился положительным. Вся необходимая информация получена. Код сработал корректно
 
-:arrow_up:[к оглавлению](https://github.com/hremeus/DS_Learning_Project_01/tree/main/project_1/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/hremeus/DS_Learning_Project_02/tree/master/project_2/README.md#Оглавление)
 
 
 ## Вывод:  
 
 Было получено представление о рынке вакансий для работников DS-направления всех позиций, а также количественная информация о вакансиях, заработных платах и навыках, необходимых работодателям
 
-:arrow_up:[к оглавлению](https://github.com/hremeus/DS_Learning_Project_01/tree/main/project_1/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/hremeus/DS_Learning_Project_02/tree/master/project_2/README.md#Оглавление)
 
 
