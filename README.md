@@ -1,9 +1,9 @@
-# DS_Learning_Project_02
+# PostgreSQL_via_psycopg2_DM
 Working with DB from hh.ru 
 
 # My data science projects
 
-From the [SkillFactory Data Science course](https://skillfactory.ru/data-scientist).
+
 
 
 ## Проекты
